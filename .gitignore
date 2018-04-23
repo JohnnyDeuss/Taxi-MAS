@@ -1,0 +1,24 @@
+*.class
+.idea
+*.iml
+.settings
+target/
+
+# Mobile Tools for Java (J2ME)
+.mtj.tmp/
+
+# Package Files #
+*.jar
+*.war
+*.ear
+
+# LaTeX files
+*.aux
+*.log
+*.out
+*.synctex.gz
+*.toc
+
+# virtual machine crash logs, see http://www.java.com/en/download/help/error_hotspot.xml
+hs_err_pid*
+/target/
